@@ -1,4 +1,3 @@
-#include "uthrpch.h"
 #include "SingletonDesign.h"
 
 
